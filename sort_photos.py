@@ -6,10 +6,14 @@ from datetime import *
 import time
 
 ## I wrote this program to help me sort my photos while I'm
-## traveling. Basically it assumes that I have output directories
-## organized by date, like this:
+## traveling. It's pretty constrained to my personal workflow - I
+## doubt anyone else would find it useful, but it's saved me hours of
+## work. 
+
+## Basically it assumes that I have output directories organized
+## by date, like this: 
 ## Pictures/2014/01/2014-01-01-Boston-Party
-## Pictures/2014/02/2014-02-13-Milan
+## Pictures/2014/02/2014-02-13-Milan 
 ## Pictures/2014/02/2014-02-15-Rome
 
 ## I want to be able to input an SD card, or give a directory as an
